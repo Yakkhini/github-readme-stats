@@ -45,6 +45,7 @@
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
 
+
 <details>
 <summary>Table of contents (Click to show)</summary>
 
